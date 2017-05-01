@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Chart 1 - Boxplots for Quantitative Variables of Interest
 
-You can use the [editor on GitHub](https://github.com/wanginat0r/data_inc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Variables include:
+- Value - PM 2.5 in micrograms/cubic meter
+- Tmpf - Temperature (F)
+- Dwpf - Dew Point (F)
+- Relh - Relative Humidity (%)
+- Sped - Wind Speed (knots)
+- P01m - Precipitation (in)
+- Vsby - Visibility (miles)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[http://oi67.tinypic.com/30bh35h.jpg]
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Chart 2 - Avg Pollution by Hour of Day
 
-# Header 1
-## Header 2
-### Header 3
+2016 data for Iowa City, IA averaged across hours for PM 2.5 pollution metric
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wanginat0r/data_inc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[http://oi67.tinypic.com/rud5km.jpg]
