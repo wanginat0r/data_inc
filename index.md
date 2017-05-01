@@ -9,7 +9,7 @@ Variables include:
 - P01m - Precipitation (in)
 - Vsby - Visibility (miles)
 
-[http://oi67.tinypic.com/30bh35h.jpg]
+[https://ibb.co/hsN5i5]
 
 
 
@@ -17,4 +17,4 @@ Variables include:
 
 2016 data for Iowa City, IA averaged across hours for PM 2.5 pollution metric
 
-[http://oi67.tinypic.com/rud5km.jpg]
+[https://ibb.co/mwoZbQ]
