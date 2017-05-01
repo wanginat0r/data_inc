@@ -21,4 +21,4 @@ The other distributions seem mostly as expected - "sped" shows a few days where 
 
 [https://ibb.co/mwoZbQ]
 
-This distribution looks like it could be characterized as bi-modal, with one peak around 4-6am and a slightly larger peak around 3pm. I probably would have expected air pollution to primarily peak around late afternoon/early evening when it is the warmest and when there are high levels of energy consumption and transportation. I think a closer look at data from other cities as well as other time periods may help better understand the Open AQ data.
+This distribution looks like it could be characterized as bi-modal, with one peak around 4-6am and a slightly larger peak around 3pm. I probably would have expected air pollution to primarily peak around late afternoon/early evening when it is the warmest and when there are high levels of energy consumption and transportation. Some of the negative pollution values and other outliers are likely skewing these hourly averages, however. I think a closer look at data from other cities as well as other time periods may help better understand the Open AQ data.
